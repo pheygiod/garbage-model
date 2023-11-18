@@ -47,11 +47,11 @@ The first time we trained the model we got very bad results. Accuracy was scorin
 Despite making a big jump with our accuracy score, there’s still a lot of room for improvement. Here’s what we could do to increase the model’s level of accuracy. First off, we could train the model on bigger and more diverse dataset. We could also train bigger models with more layers! We were also thinking of training the model with some background noise (e.g., a picture of a hand holding a plastic bottle with a bin in the background, a table, or people walking by).
 
 # Acknowledgements
-Big kudos to Vlad for rocking the user interface of our app. Seriously, Vlad, you're the UI wizard we didn't know we needed!
+Big kudos to Vlad Vaculin for rocking the user interface of our app. Seriously, Vlad, you're the UI wizard we didn't know we needed!
 
-A massive thank you to Dagmara for weaving her magic with the business case. Her strategic mind and attention to details gave our project the kickstart it needed!
+A massive thank you to Dagmara Prus for weaving her magic with the business case. Her strategic mind and attention to details gave our project the kickstart it needed!
 
-Last but not least, a special shoutout to Ward for being the backbone of our tech journey! Ward, your help in preparing a tutorial to learn how to use convolutional neural networks has been invaluable. 
+Last but not least, a special shoutout to Ward Haddadin for being the backbone of our tech journey! Ward, your help in preparing a tutorial to learn how to use convolutional neural networks has been invaluable. 
 
 Working with this crew has been an absolute blast. And guess what? Thanks to our teamwork, we bagged the first prize at the Tech Festival for the best effort and best app! Here's to more victories together!!
 
