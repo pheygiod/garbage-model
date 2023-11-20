@@ -56,4 +56,4 @@ Last but not least, a special shoutout to Ward Haddadin for being the backbone o
 Working with this crew has been an absolute blast. And guess what? Thanks to our teamwork, we bagged the first prize at the Tech Festival for the best effort and best app! Here's to more victories together!!
 
 # Contact
-For any question, drop me a line at giorgiadt14@gmail.com and I'll be happy to help you out! Feel free to message me on [LinkedIn](https://www.linkedin.com/in/giorgia-dim/) too!
+For any question, drop me a line at giorgiadt14@gmail.com and I'll be happy to help you out! Feel free to message me on [LinkedIn](https://www.linkedin.com/in/giorgia-dim/) too! [Here's](https://github.com/vladvaculin/grayce-tech-fest.git) also Vlad's user interface!
